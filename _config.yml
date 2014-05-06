@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://0xc000005.github.io/
+author: xiehui
+pygments: true
+paginate: 18
