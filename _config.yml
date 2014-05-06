@@ -22,13 +22,11 @@ disqus:
   shortname: prg-zh
 
 # 主题设置，自动激活某个标签
-active: CODER-PHPER?
+active: CODER
 
 # 首页除了最新文章外显示分类
 cates: 
   - PHP
-  - JAVA
-  - LINUX
   - MYSQL
 
 # 中文本地化
