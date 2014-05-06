@@ -1,15 +1,25 @@
 ---
-layout: default
+layout: base
 ---
-<div id="post">
-{{ content }}
+<div class="row">
+  <div class="col-md-12 aside3-title">
+    <br>
+    <h2 id="#identifier">{{ page.title }}</h2>
+    {{ page.date | date:"%Y年%m月%d日" }}
+  </div>
+  <div class="col-md-12 aside3-content">
+    <hr>
+    <div id="content">
+      {{ content }}
+    </div>
+    <hr>
+    {% include disqus.html %}
+  </div>
+  <!-- 目录 -->
+  <div id="content_table" style="position:fixed;right:20px;top:120px;display:none;">
+    <div class="panel panel-success">
+      <div class="panel-body" id="nav"></div>
+    </div>
+  </div>
 </div>
 
-<div id="related">
-  <h2>Related Posts</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
