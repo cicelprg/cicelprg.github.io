@@ -22,7 +22,7 @@ disqus:
   shortname: prg-zh
 
 # 主题设置，自动激活某个标签
-active: CODER
+active: 技术
 
 # 首页除了最新文章外显示分类
 cates: 
