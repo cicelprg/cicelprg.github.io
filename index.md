@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome To My Blog!
+title: CICEL-BLOG!
 tagline: coding for you
 ---
 {% include JB/setup %}
