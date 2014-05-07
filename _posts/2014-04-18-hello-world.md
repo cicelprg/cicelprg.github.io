@@ -2,7 +2,14 @@
 layout: post
 title: "hello world"
 description: ""
-category: MYSQL
-tags: MYSQL
+category: 
+tags: 
 ---
 {% include JB/setup %}
+
+#Hello Word!
+`<?php
+	echo 'Hello Word!;
+`?>
+
+
