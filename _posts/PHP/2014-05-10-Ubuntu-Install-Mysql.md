@@ -1,6 +1,6 @@
 ---
 layout: post
-title： Ubuntu 14.04 安装 Mysql5.6服务
+title: Ubuntu 14.04 安装 Mysql5.6服务
 categroy: PHP
 tags: PHP
 ---
