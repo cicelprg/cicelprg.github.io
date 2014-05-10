@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu 14.04 安装 Mysql5.6服务
-categroy: PHP
+category: PHP
 tags: PHP
 ---
 ###Ubuntu 14.04手动安装Mysql 5.6
