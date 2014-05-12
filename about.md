@@ -7,4 +7,5 @@ description: "About Me"
 ---
 {% include JB/setup %}
 
->ox494c6f76654c69755869616f54696e67
+This is a magical password. if you can unlock, then you can buy a lottery.
+<strong>ox494c6f76654c69755869616f54696e67</strong>
