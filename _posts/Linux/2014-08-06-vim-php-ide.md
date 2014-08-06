@@ -4,7 +4,7 @@ title: Vim PHP IDE
 category: life
 tags: life
 ---
-下载包 <a herf="http://yunpan.cn/QCazIUeHRW4Le">vim-ide</a> 提取码59cd
+下载包[vim-ide](http://yunpan.cn/QCazIUeHRW4Le) 提取码59cd
 
 如果没有安装ctags 这安装解压包里的ctags 然后修改压缩包里.vim/plugin/taglist.vim文件改为自己的ctags安装路径. 在69行 
 
